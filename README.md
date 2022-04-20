@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [still under construction](still under construction)
 
-- 💬 Ask me about **Quasar, VueJS, Bases de datos, etc.**
+- 💬 Ask me about **Quasar, VueJS, Databases, etc.**
 
 - 📫 How to reach me **ebert15@hotmail.com**
 
